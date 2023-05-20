@@ -8,7 +8,7 @@ Des relevés minutieux ont été effectués en 2016. Cependant, ces relevés son
 
 La prédiction se basera sur les données déclaratives du permis d'exploitation commerciale (taille et usage des bâtiments, mention de travaux récents, date de construction..)
 
-Une évaluation de l’intérêt de l’"Energy Star Score" pour la prédiction d’émissions, qui est fastidieux à calculer, est également souhaitée.
+Une évaluation de l’intérêt de l’**Energy Star Score** pour la prédiction d’émissions, qui est fastidieux à calculer, est également souhaitée.
 Objectifs
 
     Réaliser une courte analyse exploratoire.
